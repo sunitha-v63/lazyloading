@@ -1,0 +1,1 @@
+import{j as e}from"./index-CD9AMcJE.js";const d=()=>e.jsx("header",{style:r.header,children:e.jsx("h1",{children:"Code Splitting and Lazy Loading"})}),r={header:{backgroundColor:"grey",color:"white",padding:"1rem",textAlign:"center"}};export{d as default};

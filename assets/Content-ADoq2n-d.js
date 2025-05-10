@@ -1,0 +1,1 @@
+import{j as e}from"./index-CD9AMcJE.js";const s=()=>e.jsxs("div",{style:{color:"grey"},children:[e.jsx("h6",{children:"task5 & task6"}),e.jsx("p",{children:"React.lazy Setup: Refactor one component to use React.lazy. "}),e.jsx("p",{children:"Suspense usage content loading.."})]});export{s as default};

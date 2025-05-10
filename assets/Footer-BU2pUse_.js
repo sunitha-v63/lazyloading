@@ -1,0 +1,1 @@
+import{j as o}from"./index-CD9AMcJE.js";const t=()=>o.jsx("footer",{style:r.footer,children:o.jsx("p",{children:"Footer"})}),r={footer:{backgroundColor:"#333",color:"white",padding:"1rem",textAlign:"center",marginTop:"2rem"}};export{t as default};
